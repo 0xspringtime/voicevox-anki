@@ -1,5 +1,6 @@
 # voicevox-anki
 Documentation on how to add voicevox support to anki cards
+
 __Method 1__
 
 1. Download the Generate Batch Audio add-on from https://ankiweb.net/shared/info/1156270186 by copy and pasting the code 1156270186 into Tools > Add-ons > Get Add-ons
