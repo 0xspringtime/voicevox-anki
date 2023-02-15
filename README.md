@@ -24,7 +24,7 @@ __Method 2__
 
 1. If you have voicevox downloaded, run with <code>--host localhost --cors_policy_mod all</code>
 2. Run node.js script linke example used [here](example.js)
-3. Use http://localhost:3000/audio?text={AnkiField} as field in anki with Generate Batch Audio OR <code>"<audio autoplay controls src="http://localhost:3000/audio?text={{Katakana}}"></audio>"</code> as an example in your card to save disk space. To create a keybinding that resets audio one can use [this](replay.js)
+3. Use http://localhost:3000/audio?text={AnkiField} as field in anki with Generate Batch Audio OR [this](line.html) as an example in your card to save disk space. To create a keybinding that resets audio one can use [this](replay.js)
 
 
 __Method 3__
