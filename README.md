@@ -18,3 +18,8 @@ __Method 1__
 7. Click Generate and wait for your cards to generate! Let me know of any problems encountered in the "Issues" tab.
 
 [test](example.js)
+
+
+__Method 2__
+
+1. If you have voicevox downloaded, run with <code>--host localhost --cors_policy_mod all</code>
