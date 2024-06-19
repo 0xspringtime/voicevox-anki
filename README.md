@@ -3,9 +3,9 @@ Documentation on how to add voicevox support to anki cards
 
 __Method 1__
 
-1. Download the Generate Batch Audio add-on from https://ankiweb.net/shared/info/1156270186 by copy and pasting the code 1156270186 into Tools > Add-ons > Get Add-ons
+1. Download the Generate Batch Audio add-on from https://ankiweb.net/shared/info/1156270186 by copying and pasting the code 1156270186 into Tools > Add-ons > Get Add-ons
 
-2. Go to https://voicevox.su-shiki.com/su-shikiapis/ and at step 1 click the hyperlink at "こちら", then pass the reCAPTCHA to receive your API key at a new page in a field under "apiKeyをコピー", save this for later. The API key has a daily limit but it is very high and multiple keys can be made by a single user.
+2. Go to https://voicevox.su-shiki.com/su-shikiapis/ and at step 1, click the hyperlink at "こちら", then pass the reCAPTCHA to receive your API key at a new page in a field under "apiKeyをコピー", save this for later use. The API key has a daily limit but it is very high and multiple keys can be made by a single user.
 
 3. Now, go to the anki card browser and select all cards you would like to add voicevox tts to. Click Edit > Generate Bulk Audio. In the new window click "Add Source" and move the new field to the top in priority. This is important so the add-on uses voicevox first instead of the other sources.
 
