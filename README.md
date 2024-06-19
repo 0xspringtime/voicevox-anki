@@ -29,4 +29,4 @@ __Method 2__
 
 __Method 3__
 
-1. With voicevox downloaded, for a lightweight option one may opt for to fetch the audio directly from within anki, without the need of a proxy using [this](replay.js) within the anki card template editor.
+1. With voicevox downloaded, for a lightweight option one may opt to fetch the audio directly from within anki, without the need of a proxy using [this](replay.js) within the anki card template editor.
